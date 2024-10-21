@@ -22,9 +22,6 @@ author: Binh Truong
 navbar-links:
   About Me: "aboutme"
   Tags: "tags"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -32,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -54,12 +51,10 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: facebook.com/ducbinh9418
   github: github.com/binhtruong9418
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  twitter: https://x.com/DucBinh9418
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/binh-duc-731682170/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -96,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "blog.ducbinh203.info"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -251,7 +246,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Ho_Chi_Minh"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

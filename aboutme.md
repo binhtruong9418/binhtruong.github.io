@@ -4,13 +4,18 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Truong Duc Binh. I'm a fourth-year student at the Hanoi University of Science and Technology. I'm majoring in Information Technology. I'm a fullstack developer, and I'm currently working at company in Hanoi.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Education 
+- Hanoi University of Science and Technology (HUST)
+- Thuong Tin High School
+- Thuong Tin Specialized Secondary School
 
-What else do you need?
+### Experience
+- HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, NestJS, NextJS
+- MySQL, MongoDB, PostgreSQL, Redis, Firebase
+- Git, Docker, AWS
+- English, Vietnamese
+- AI, Machine Learning
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
