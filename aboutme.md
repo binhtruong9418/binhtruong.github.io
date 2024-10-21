@@ -16,6 +16,5 @@ My name is Truong Duc Binh. I'm a fourth-year student at the Hanoi University of
 - MySQL, MongoDB, PostgreSQL, Redis, Firebase
 - Git, Docker, AWS
 - English, Vietnamese
-- AI, Machine Learning
 
 
